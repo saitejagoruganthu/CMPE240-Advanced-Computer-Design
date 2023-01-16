@@ -1,0 +1,5 @@
+../src/Assignment_GPIOTesting.c:29:6:GPIOinitOut	16	static
+../src/Assignment_GPIOTesting.c:50:6:GPIOinitIn	16	static
+../src/Assignment_GPIOTesting.c:70:6:setGPIO	16	static
+../src/Assignment_GPIOTesting.c:84:6:clearGPIO	16	static
+../src/Assignment_GPIOTesting.c:97:5:main	16	static

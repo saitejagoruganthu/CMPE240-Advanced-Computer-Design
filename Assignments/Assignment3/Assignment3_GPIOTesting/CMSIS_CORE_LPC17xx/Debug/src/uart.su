@@ -1,0 +1,5 @@
+../src/uart.c:48:6:UART0_IRQHandler	8	static
+../src/uart.c:122:6:UART1_IRQHandler	8	static
+../src/uart.c:196:6:UART3_IRQHandler	8	static
+../src/uart.c:274:10:UARTInit	8	static
+../src/uart.c:404:6:UARTSend	12	static
